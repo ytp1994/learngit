@@ -12,7 +12,7 @@
 #define ODO_MAX 999999
 #define ODO_MIN 0
 #define ODO_ERR "------"
-
+#change
 class CarInfoOdo : public Component {
 public:
     /**
