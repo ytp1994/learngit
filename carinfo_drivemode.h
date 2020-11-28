@@ -8,8 +8,7 @@
 #define CARINFO_CARINFO_DRIVEMODE_H_
 
 #include "component_manager.h"
-#change
-
+#change2amend
 typedef enum {
     KANZI_MODE_COMFORT = 0,
     KANZI_MODE_SPORT = 1,
